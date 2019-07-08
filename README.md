@@ -2,6 +2,7 @@
 ### This project uses GPU to train model of SSD-300 and Mask R-CNN
 ### Result refers to Evaluation for Mask RCNN.ipynb & Evaluation_SSD.ipynb
  
+### Make it from setup to evaluation:
 
 1. Setup the environment
     GCC version: (Ubuntu 7.3.0-27ubuntu1~18.04) 7.3.0
