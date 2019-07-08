@@ -1,6 +1,6 @@
 # Deep Learning project for Colon Polyps Detection
-# This project uses GPU to train model of SSD-300 and Mask R-CNN
-# Result refers to Evaluation for Mask RCNN.ipynb & Evaluation_SSD.ipynb
+### This project uses GPU to train model of SSD-300 and Mask R-CNN
+### Result refers to Evaluation for Mask RCNN.ipynb & Evaluation_SSD.ipynb
  
 
 1. Setup the environment
