@@ -1,5 +1,7 @@
-# MachineLearning
-Learning experience of Machine Learning and Deep Learning For Course
+# Deep Learning project for Colon Polyps Detection
+# This project uses GPU to train model of SSD-300 and Mask R-CNN
+# Result refers to Evaluation for Mask RCNN.ipynb & Evaluation_SSD.ipynb
+ 
 
 1. Setup the environment
     GCC version: (Ubuntu 7.3.0-27ubuntu1~18.04) 7.3.0
